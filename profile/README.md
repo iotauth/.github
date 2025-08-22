@@ -9,6 +9,6 @@
 - 🛜 [Network Simulation Environments](https://github.com/iotauth/iotauth_experiments)
 - 🧐 [Formal Security Analysis](https://github.com/iotauth/security_analysis)
 - 🛡️ [SHIELD](https://github.com/iotauth/SHIELD)
-- 📌 [Physical Presence-Based Auth using LiFi](https://github.com/iotauth/lifi-auth)
+- 📌 [Physical Presence-based Auth using LiFi](https://github.com/iotauth/lifi-auth)
 - 🧑🏻‍💻 **Current Active Contributors**: Hokeun Kim, Dongha Kim, Carlos Beltran Quinonez, Sunyoung Kim, Jose Felix
 - 👨🏻‍🎓 **Former Contributors**: Salomon Lee, Eunsuk Kang, Marten Lohstroh, Taekyung Kim, Yeongbin Jo
