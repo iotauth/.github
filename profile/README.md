@@ -12,5 +12,5 @@
 - 🛡️ [SHIELD](https://github.com/iotauth/SHIELD)
 - 📌 [Physical Presence-based Auth using LiFi](https://github.com/iotauth/lifi-auth)
 - 🏛️ **Founding Contributors**: Hokeun Kim, Salomon Lee, Eunsuk Kang
-- 🧑🏻‍💻 **Current Active Contributors**: Hokeun Kim, Dongha Kim, Carlos Beltran Quinonez, Sunyoung Kim, Jose Felix, Kushal Paliwal, Krutyanjay Shinde
-- 👨🏻‍🎓 **Former Contributors**: Marten Lohstroh, Taekyung Kim, Yeongbin Jo
+- 🧑🏻‍💻 **Current Active Contributors**: Hokeun Kim, Salomon Lee, Dongha Kim, Carlos Beltran Quinonez, Sunyoung Kim, Jose Felix, Kushal Paliwal, Krutyanjay Shinde
+- 👨🏻‍🎓 **Former Contributors**: Eunsuk Kang, Marten Lohstroh, Taekyung Kim, Yeongbin Jo
