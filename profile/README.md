@@ -3,9 +3,9 @@
 **Secure Swarm Toolkit (SST)** provides security solutions, including authentication, authorization (access control), secure channels, cryptography, and credential management, for a wide range of distributed systems, from lightweight Internet of Things (IoT) systems to large-scale high-performance computing systems.
 
 - 🏠 [SST Main Website](https://iotauth.github.io/)
-- 📜 [Introduction to SST](https://github.com/iotauth/iotauth/blob/master/README.md)
-- 🚀 [Try Quickstart Examples](https://github.com/iotauth/iotauth/tree/master/examples)
-- 🔐 [Auth - Core Component of SST on Edge](https://github.com/iotauth/iotauth/tree/master/auth)
+- 📜 [Introduction to SST](https://github.com/iotauth/iotauth/blob/main/README.md)
+- 🚀 [Try Quickstart Examples](https://github.com/iotauth/iotauth/tree/main/examples)
+- 🔐 [Auth - Core Component of SST on Edge](https://github.com/iotauth/iotauth/tree/main/auth)
 - 🛝 [SST C API and Examples](https://github.com/iotauth/sst-c-api)
 - 🛜 [Network Simulation Environments](https://github.com/iotauth/iotauth_experiments)
 - 🧐 [Formal Security Analysis](https://github.com/iotauth/security_analysis)
