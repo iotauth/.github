@@ -6,7 +6,7 @@
 - 📜 [Introduction to SST](https://github.com/iotauth/iotauth/blob/main/README.md)
 - 🚀 [Try Quickstart Examples](https://github.com/iotauth/iotauth/tree/main/examples)
 - 🔐 [Auth - Core Component of SST on Edge](https://github.com/iotauth/iotauth/tree/main/auth)
-- 🛝 [SST C API and Examples](https://github.com/iotauth/sst-c-api)
+- 🛝 [SST C/C++ API and Examples](https://github.com/iotauth/sst-c-api)
 - 🛜 [Network Simulation Environments](https://github.com/iotauth/iotauth_experiments)
 - 🧐 [Formal Security Analysis](https://github.com/iotauth/security_analysis)
 - 🛡️ [SHIELD](https://github.com/iotauth/SHIELD)
