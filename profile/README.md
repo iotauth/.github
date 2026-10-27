@@ -13,5 +13,5 @@
 - 🔬 [SST Testbed](https://github.com/iotauth/sst-c-api/tree/main/examples/SST_Testbed)
 - 📌 [Physical Presence-based Auth using LiFi](https://github.com/iotauth/lifi-auth)
 - 🏛️ **Founding Contributors**: Hokeun Kim, Salomon Lee, Eunsuk Kang
-- 🧑🏻‍💻 **Current Active Contributors**: Hokeun Kim, Salomon Lee, Dongha Kim, Carlos Beltran Quinonez, Sunyoung Kim, Jose Felix, Kushal Paliwal, Krutyanjay Shinde, Deeparghya Dutta Barua
-- 👨🏻‍🎓 **Former Contributors**: Eunsuk Kang, Marten Lohstroh, Taekyung Kim, Yeongbin Jo
+- 🧑🏻‍💻 **Current Active Contributors**: Hokeun Kim, Salomon Lee, Dongha Kim, Carlos Beltran Quinonez, Sunyoung Kim, Jose Felix, Deeparghya Dutta Barua, Divyansh Tare
+- 👨🏻‍🎓 **Former Contributors**: Eunsuk Kang, Marten Lohstroh, Taekyung Kim, Yeongbin Jo, Kushal Paliwal, Krutyanjay Shinde
